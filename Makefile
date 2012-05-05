@@ -1,4 +1,4 @@
-REPORTER = Spec
+REPORTER = spec
 
 test-tdd:
 		@./node_modules/.bin/mocha \
