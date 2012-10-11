@@ -11,4 +11,9 @@ suite('#cube test', function() {
 		cube(2).should.equal(8);
 		cube(5).should.equal(125);
   });
+
+  test('cube should return 1 and 27', function() {
+		cube(1).should.equal(1);
+		cube(3).should.equal(27);
+  });
 });
