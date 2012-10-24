@@ -10,7 +10,7 @@
 			"swig": "*"
   },
   "devDependencies": {
-			"mocha": "*",
+			"mocha": "1.6.0",
 			"should": "*"
 	},
   "optionalDependencies": {},
