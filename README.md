@@ -1,7 +1,7 @@
 Travis-Mocha-Nodejs
 ===================
 
-To test Travis-CI, Mocha and NodeJS all together
+To test Travis-CI, Mocha and NodeJS all together.
 
 You can see the result <a href="http://travis-ci.org/#!/Petrlds/Travis-Mocha-Nodejs/builds/1252061">here</a>
 
